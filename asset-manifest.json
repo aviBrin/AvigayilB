@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AvigayilB/static/css/main.d1b05096.chunk.css",
+    "main.js": "/AvigayilB/static/js/main.909e2e2f.chunk.js",
+    "main.js.map": "/AvigayilB/static/js/main.909e2e2f.chunk.js.map",
+    "runtime-main.js": "/AvigayilB/static/js/runtime-main.8378f42b.js",
+    "runtime-main.js.map": "/AvigayilB/static/js/runtime-main.8378f42b.js.map",
+    "static/js/2.30a2f15e.chunk.js": "/AvigayilB/static/js/2.30a2f15e.chunk.js",
+    "static/js/2.30a2f15e.chunk.js.map": "/AvigayilB/static/js/2.30a2f15e.chunk.js.map",
+    "index.html": "/AvigayilB/index.html",
+    "precache-manifest.8a80df29fb992fb0b0e19143be830fb5.js": "/AvigayilB/precache-manifest.8a80df29fb992fb0b0e19143be830fb5.js",
+    "service-worker.js": "/AvigayilB/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/AvigayilB/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.30a2f15e.chunk.js.LICENSE": "/AvigayilB/static/js/2.30a2f15e.chunk.js.LICENSE",
+    "static/media/logo.svg": "/AvigayilB/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8378f42b.js",
+    "static/js/2.30a2f15e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.909e2e2f.chunk.js"
+  ]
+}
